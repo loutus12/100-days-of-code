@@ -45,3 +45,21 @@
 17.Set the line-height of Paragraphs
 18.Adjust the Hover State of an Anchor Tag
 
+### Day 2: January 2, 2022 Saturday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts**: It was heard to get through an hour of coding but I did it. I might reduce it down to 30 minutes since that's technically the miniumum in the 2022 challenge. 
+
+**Link(s) to work**
+1. Change an Element's Relative Position
+2. Move a Relatively Positioned Element with CSS Offsets
+3. Lock an Element to its Parent with Absolute Positioning
+4. Lock an Element to the Browser Window with Fixed Positioning
+5. Push Elements Left or Right with the float Property
+6. Change the Position of Overlapping Elements with the z-index Property
+7. Center an Element Horizontally Using the margin Property
+8. Learn about Complementary Colors
+9. Learn about Tertiary Colors
+10. Adjust the Color of Various Elements to Complementary Colors
+11. Adjust the Hue of a Color
