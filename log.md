@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: January 1,2022 Saturday
+### Day 1: January 1, 2022 Saturday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
