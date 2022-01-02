@@ -23,7 +23,7 @@
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and I'm nervous this is not for me, but I will try to make it through the end of this challenge.
+**Thoughts**: I've recently started coding, and I'm nervous this is not for me, but I will try to make it through the end of this challenge.
 
 **Link(s) to work**
 1. Create Visual Balance Using the text-align Property
