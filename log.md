@@ -73,4 +73,5 @@
 ### Day 4: January 4, 2022 Tuesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
 **Thoughts**: I was getting bored at times but it was cool to learn about animation. Atleast I did it, and at the end of this challenge I will learn if this is for me. 
