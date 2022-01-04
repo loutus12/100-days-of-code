@@ -45,7 +45,7 @@
 17.Set the line-height of Paragraphs
 18.Adjust the Hover State of an Anchor Tag
 
-### Day 2: January 2, 2022 Saturday
+### Day 2: January 2, 2022 Sunday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
