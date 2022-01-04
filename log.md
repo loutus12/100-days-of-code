@@ -63,3 +63,9 @@
 9. Learn about Tertiary Colors
 10. Adjust the Color of Various Elements to Complementary Colors
 11. Adjust the Hue of a Color
+
+### Day 3: January 3, 2022 Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts**: It was hard to motivate myself to do it today but it was for only thirty minutes today. I have no desk so my back hurts from working on my bed. I have an idea for an app, but I don't have the skills for it. I still think this is not for me but this challenge is encouraging me to keep trying. I watched a video that good developers are those who are passionate about coding and those who are only looking for only money are not very good.  
