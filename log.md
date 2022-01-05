@@ -70,6 +70,12 @@
 
 **Thoughts**: It was hard to motivate myself to do it today but it was for only thirty minutes today. I have no desk so my back hurts from working on my bed. I have an idea for an app, but I don't have the skills for it. I still think this is not for me but this challenge is encouraging me to keep trying. I watched a video that good developers are those who are passionate about coding and those who are only looking for money are not very good.  
 
+### Day 4: January 4, 2022 Tuesday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts**: I was getting bored at times but it was cool to learn about animation. Atleast I did it, and at the end of this challenge I will learn if this is for me. 
+
 ### Day 5: January 5, 2022 Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
