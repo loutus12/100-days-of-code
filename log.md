@@ -81,3 +81,9 @@
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts**: I was able to get through it and it wasn't as boring as usual. I listened to a really good playlist as I coded. I was also able to use the typing skills that I'm practising. 
+
+### Day 6: January 6, 2022 Thursday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts**: I was so tired and I wanted to get it over with. I managed to code for thirty minutes and finished a module on FreeCodeCamp.
