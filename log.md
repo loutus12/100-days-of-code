@@ -87,3 +87,9 @@
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts**: I was so tired and I wanted to get it over with. I managed to code for thirty minutes and finished a module on FreeCodeCamp.
+
+### Day 7: January 7, 2022 Friday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts**: I think I worked for thirty minutes but my computer was messing up and I got distracted for a few minutes. I'm exhausted but I got through it. 
