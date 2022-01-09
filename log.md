@@ -93,3 +93,10 @@
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts**: I think I worked for thirty minutes but my computer was messing up and I got distracted for a few minutes. I'm exhausted but I got through it. 
+
+
+### Day 8: January 8, 2022 Saturday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts**: I did it, I did a piss poor job cocentrating on it, but I showed up and did it. 
