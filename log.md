@@ -100,3 +100,9 @@
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts**: I did it, I did a piss poor job concentrating on it, but I showed up and did it. 
+
+### Day 9: January 9, 2022 Sunday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts**: I coded almost first thing in the morning, and I should probably go over the modules that I rushed through and didn't really read. 
