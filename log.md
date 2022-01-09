@@ -99,4 +99,4 @@
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts**: I did it, I did a piss poor job cocentrating on it, but I showed up and did it. 
+**Thoughts**: I did it, I did a piss poor job concentrating on it, but I showed up and did it. 
