@@ -113,14 +113,14 @@
 
 **Thoughts**: I messed up tracking my coding days on here, but I know I coded that day.
 
-### Day 11: January 11, 2022 Monday
+### Day 11: January 11, 2022 Tuesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts**: I messed up tracking my coding days on here, but I know I coded that day.
 
 
-### Day 12: January 12, 2022 Tuesday
+### Day 12: January 12, 2022 Wednesday
 
 **Today's Progress**: I spent time reading the "self-taught programmer" and following its directions. I coded in Python for the very first time. 
 
