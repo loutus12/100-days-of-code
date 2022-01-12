@@ -40,3 +40,6 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+## My own Resources that I found
+*  Clean Code: A Handbook of Agile Software Craftsmanship 1st Edition
