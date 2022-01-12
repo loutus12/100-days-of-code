@@ -113,7 +113,7 @@
 
 **Thoughts**: I messed up tracking my coding days on here, but I know I coded that day.
 
-### Day 10: January 11, 2022 Monday
+### Day 11: January 11, 2022 Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
