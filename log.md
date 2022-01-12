@@ -114,8 +114,11 @@
 **Thoughts**: I messed up tracking my coding days on here, but I know I coded that day.
 
 
-### Day 11: January 11, 2022 Tuesday
+### Day 12: January 12, 2022 Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I spent time reading the "self-taught programmer" and following its directions. I coded in Python for the very first time. 
 
-**Thoughts**: Once again just going through the motions, but I showed up. 
+**Thoughts**: I decided to reward myself for making it through ten days of programming. The book is a fun, simple read. 
+
+**Reward for 10 day milestone**: "The self-taught programmer"
+
