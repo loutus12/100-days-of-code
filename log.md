@@ -128,3 +128,11 @@
 
 **Reward for 10 day milestone**: "The self-taught programmer"
 
+
+### Day 13: January 13, 2022 Thursday
+
+**Today's Progress**: I coded for 30 minutes. 
+
+**Thoughts**: I was kinda distracted by my own thoughts and was listening to a nice kingdom hearts playlist. 
+
+
