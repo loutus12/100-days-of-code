@@ -143,4 +143,9 @@
 **Thoughts**: Wow, 14 days. 
 
 
+### Day 15: January 15, 2022 Saturday
+
+**Today's Progress**: I coded for 30 minutes. 
+
+**Thoughts**: I did it, even though I got bored. 
 
