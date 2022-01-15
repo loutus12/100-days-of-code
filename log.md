@@ -133,6 +133,14 @@
 
 **Today's Progress**: I coded for 30 minutes. 
 
-**Thoughts**: I was kinda distracted by my own thoughts and was listening to a nice kingdom hearts playlist. 
+**Thoughts**: I was kinda distracted by my own thoughts and was listening to a nice kingdom hearts playlist.  
+
+
+### Day 14: January 14, 2022 Friday
+
+**Today's Progress**: I coded for 30 minutes. 
+
+**Thoughts**: Wow, 14 days. 
+
 
 
