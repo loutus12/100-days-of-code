@@ -149,3 +149,10 @@
 
 **Thoughts**: I did it, even though I got bored. 
 
+
+### Day 16: January 16, 2022 Saturday
+
+**Today's Progress**: I coded for 30 minutes. 
+
+**Thoughts**: I did it, even though I got distracted.
+
